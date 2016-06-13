@@ -1,0 +1,18 @@
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.exe.config
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.exe
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.pdb
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.csprojResolveAssemblyReference.cache
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.Form1.resources
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.Properties.Resources.resources
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.csproj.GenerateResource.Cache
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.exe
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.pdb
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.exe.config
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.exe
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.pdb
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.exe
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\bin\Debug\demo_LinQ.pdb
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.csprojResolveAssemblyReference.cache
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.Form1.resources
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.Properties.Resources.resources
+C:\Users\VENIT\Desktop\CongNgheNet\demo_LinQ\demo_LinQ\obj\Debug\demo_LinQ.csproj.GenerateResource.Cache

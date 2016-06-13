@@ -1,0 +1,9 @@
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\bin\Debug\demo_2.exe.config
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\bin\Debug\demo_2.exe
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\bin\Debug\demo_2.pdb
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.csprojResolveAssemblyReference.cache
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.Form1.resources
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.Properties.Resources.resources
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.csproj.GenerateResource.Cache
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.exe
+c:\users\nguyen ba duy\documents\visual studio 2015\Projects\demo_2\demo_2\obj\Debug\demo_2.pdb
