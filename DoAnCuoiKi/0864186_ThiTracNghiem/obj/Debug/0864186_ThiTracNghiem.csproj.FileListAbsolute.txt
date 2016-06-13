@@ -1,0 +1,12 @@
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\ResolveAssemblyReference.cache
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\_0864186_ThiTracNghiem.Properties.Resources.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.csproj.GenerateResource.Cache
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\bin\Debug\0864186_ThiTracNghiem.exe
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\bin\Debug\0864186_ThiTracNghiem.pdb
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\_0864186_ThiTracNghiem.frmModuleThiTracNghiem.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.exe
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.pdb
+C:\Users\VENIT\Desktop\CongNgheNet\DOAN\SoanDeThi_ThiTracNghiem\Source\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.exe
+C:\Users\VENIT\Desktop\CongNgheNet\DOAN\SoanDeThi_ThiTracNghiem\Source\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.pdb
+C:\Users\VENIT\Desktop\CongNgheNet\DoAnCuoiKi\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.exe
+C:\Users\VENIT\Desktop\CongNgheNet\DoAnCuoiKi\0864186_ThiTracNghiem\obj\Debug\0864186_ThiTracNghiem.pdb

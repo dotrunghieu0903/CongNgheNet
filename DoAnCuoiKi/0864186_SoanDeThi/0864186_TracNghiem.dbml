@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="0864186_TracNghiem" Class="_0864186_TracNghiemDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\0864186_TracNghiem.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="_0864186_SoanDeThi.Properties.Settings" SettingsPropertyName="_0864186_TracNghiemConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CauHoi" Member="CauHois">
+    <Type Name="CauHoi">
+      <Column Name="maCauHoi" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="maChuDe" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="noiDung" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dapAnA" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dapAnB" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dapAnC" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dapAnD" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dapAnDung" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ChuDe_CauHoi" Member="ChuDe" ThisKey="maChuDe" OtherKey="maChuDe" Type="ChuDe" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ChuDe" Member="ChuDes">
+    <Type Name="ChuDe">
+      <Column Name="maChuDe" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenChuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="ChuDe_CauHoi" Member="CauHois" ThisKey="maChuDe" OtherKey="maChuDe" Type="CauHoi" />
+    </Type>
+  </Table>
+</Database>

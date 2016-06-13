@@ -1,0 +1,14 @@
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\bin\Debug\0864186_SoanDeThi.exe.config
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\bin\Debug\0864186_TracNghiem.mdf
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\bin\Debug\0864186_TracNghiem_log.ldf
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\bin\Debug\0864186_SoanDeThi.exe
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\bin\Debug\0864186_SoanDeThi.pdb
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\ResolveAssemblyReference.cache
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\_0864186_SoanDeThi.frmModeuleSoanDe.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\_0864186_SoanDeThi.frmTheLoai.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\_0864186_SoanDeThi.Properties.Resources.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\_0864186_SoanDeThi.ucSoanCauHoi.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\_0864186_SoanDeThi.ucTaoDeThi.resources
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\0864186_SoanDeThi.csproj.GenerateResource.Cache
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\0864186_SoanDeThi.exe
+E:\Vuong's managerCode\Dropbox\HK06\Windows Propramming\DoAn\0864186_SoanDeThi\obj\Debug\0864186_SoanDeThi.pdb

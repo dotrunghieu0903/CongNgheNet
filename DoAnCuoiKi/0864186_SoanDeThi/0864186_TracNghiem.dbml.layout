@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="0864186_TracNghiem">
+  <DataContextMoniker Name="/_0864186_TracNghiemDataContext" />
+  <nestedChildShapes>
+    <classShape Id="de5586cc-ff3e-4a89-bead-ab85c3cd3684" absoluteBounds="3.625, 1.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/_0864186_TracNghiemDataContext/CauHoi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc66c3a5-2a4b-4d69-a87d-4574735ef7e7" absoluteBounds="3.64, 1.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12fadd0b-793b-4dda-9071-d7b91cde2e9a" absoluteBounds="1, 1.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/_0864186_TracNghiemDataContext/ChuDe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ac92b0b9-559e-4521-90b6-7ac4b773c0b6" absoluteBounds="1.0150000000000001, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 1.72199625651042); (3.625 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/_0864186_TracNghiemDataContext/ChuDe/ChuDe_CauHoi" />
+      <nodes>
+        <classShapeMoniker Id="12fadd0b-793b-4dda-9071-d7b91cde2e9a" />
+        <classShapeMoniker Id="de5586cc-ff3e-4a89-bead-ab85c3cd3684" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

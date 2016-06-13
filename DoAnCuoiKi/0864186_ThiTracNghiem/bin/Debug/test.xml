@@ -1,0 +1,42 @@
+<DeThi>
+  <CauHoi>
+    <NoiDung>Muốn cài đặt hệ điều hành Windows Vista thì phân vùng cài đặt phải được định dạng theo hệ thống tập tin?</NoiDung>
+    <DapAnA>FAT32</DapAnA>
+    <DapAnB>HPFS</DapAnB>
+    <DapAnC>NTFS</DapAnC>
+    <DapAnD>EXT3</DapAnD>
+    <DapAnDung>1</DapAnDung>
+  </CauHoi>
+  <CauHoi>
+    <NoiDung>Tốc độ truyền dữ liệu của chuẩn IEEE 1394a là?a. 100 Mbps</NoiDung>
+    <DapAnA>480 Mbps</DapAnA>
+    <DapAnB>400 Mbps</DapAnB>
+    <DapAnC>800 Mbps</DapAnC>
+    <DapAnD>Tất cả</DapAnD>
+    <DapAnDung>2</DapAnDung>
+  </CauHoi>
+  <CauHoi>
+    <NoiDung>CPU có tên mã “Prescolt” là vi xử lý được sản xuất dựa trên công nghệ?</NoiDung>
+    <DapAnA>45nm</DapAnA>
+    <DapAnB>65nm</DapAnB>
+    <DapAnC>90nm</DapAnC>
+    <DapAnD>90mm</DapAnD>
+    <DapAnDung>3</DapAnDung>
+  </CauHoi>
+  <CauHoi>
+    <NoiDung> Trong hệ điều hành Windows XP có thể tiến hành phân chia đĩa cứng bằng tiện ích nào sau đây?</NoiDung>
+    <DapAnA>Device Manager</DapAnA>
+    <DapAnB>Disk Management</DapAnB>
+    <DapAnC>Disk Defragment</DapAnC>
+    <DapAnD>Disk Cleanup</DapAnD>
+    <DapAnDung>4</DapAnDung>
+  </CauHoi>
+  <CauHoi>
+    <NoiDung>Cổng DVI dùng để kết nối với thiết bị nào sau đây?</NoiDung>
+    <DapAnA>Printer</DapAnA>
+    <DapAnB>Scanner</DapAnB>
+    <DapAnC>NULMonitorL</DapAnC>
+    <DapAnD>Fax</DapAnD>
+    <DapAnDung>3</DapAnDung>
+  </CauHoi>
+</DeThi>
